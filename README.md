@@ -1,3 +1,2 @@
-# Juego experimental
-Estas son pruebas basicas que estoy haciendo para hacer un juego
-Aun sigue muy verde y pienso en actualizarlo a futuro
+# KLONOA INTO A NEW WORLD
+Klonoa y guntz llegaron a un nuevo mundo que no es el suyo, serán capaces de vencer sus miedos?
