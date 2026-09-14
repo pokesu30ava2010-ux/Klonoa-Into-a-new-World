@@ -8,3 +8,5 @@ Resident Evil Requiem
 Resident Evil 5
 Persona 3 FES
 Persona 4 Golden
+Dragon Ball Xenoverse 2
+Los assets de Klonoa provienen de Klonoa Dream Champ Tournament
